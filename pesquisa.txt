@@ -1,0 +1,84 @@
+Uma landing page, também conhecida como página de aterrissagem, página de conversão, de captura ou de destino, tem como principal objetivo a conversão de visitantes em leads ou clientes.
+
+Em outras palavras, é uma página única criada com um único propósito: motivar o visitante a realizar uma ação específica, como:
+
+Assinar uma newsletter: em troca de um e-book gratuito ou acesso a um conteúdo exclusivo;
+Solicitar um orçamento: para um serviço ou produto;
+Comprar um produto: aproveitando uma oferta especial;
+Se cadastrar em um evento: como um webinar ou curso online;
+Baixar um aplicativo: para testar um novo serviço ou funcionalidade.
+Para alcançar esse objetivo, a landing page deve ser clara, concisa e persuasiva. Ela deve apresentar de forma direta e objetiva os benefícios da oferta e os motivos pelos quais o visitante deve se converter.
+
+Elementos essenciais de uma landing page:
+
+Título chamativo: que desperte a atenção do visitante e o incentive a continuar lendo;
+Subtítulo informativo: que explique de forma clara e concisa o que a oferta oferece;
+Imagem ou vídeo impactante: que ilustre a oferta e torne a página mais atraente;
+Texto persuasivo: que destaque os benefícios da oferta e explique por que o visitante deve se converter;
+Formulário de captura de leads: que seja simples e fácil de preencher;
+Chamada para ação (CTA) clara e objetiva: que diga ao visitante o que ele deve fazer, como "Assine agora" ou "Compre agora".
+Benefícios de usar landing pages:
+
+Aumento nas taxas de conversão: pois são páginas otimizadas para um único objetivo;
+Melhor segmentação do público: pois podem ser personalizadas para diferentes personas;
+Geração de leads qualificados: pois capturam informações valiosas sobre os visitantes;
+Melhoria no ROI (retorno sobre investimento): pois permitem acompanhar os resultados das campanhas de marketing.
+Dicas para criar landing pages eficazes:
+
+Defina um objetivo claro e específico para a página;
+Conheça o seu público-alvo e suas necessidades;
+Crie um título e subtítulo que sejam chamativos e informativos;
+Utilize imagens ou vídeos de alta qualidade;
+Escreva um texto persuasivo que destaque os benefícios da oferta;
+Utilize um formulário de captura de leads simples e fácil de preencher;
+Crie uma CTA clara e objetiva;
+Teste e otimize a página constantemente.
+Exemplos de landing pages:
+
+Página para baixar um e-book gratuito;
+Página para se cadastrar em um webinar;
+Página para solicitar um orçamento;
+Página para comprar um produto.
+Recursos para criar landing pages:
+
+WordPress: existem diversos plugins que permitem criar landing pages facilmente, como Elementor, Divi e Beaver Builder;
+Wix: plataforma online que permite criar landing pages sem precisar de conhecimentos técnicos;
+Unbounce: plataforma online especializada na criação de landing pages;
+Leadpages: plataforma online que oferece diversas ferramentas para criar e otimizar landing pages.
+Conclusão:
+
+As landing pages são ferramentas essenciais para qualquer empresa que deseja aumentar suas taxas de conversão e gerar mais leads. Ao criar landing pages eficazes, você pode direcionar o tráfego do seu site para uma página específica e incentivar os visitantes a realizar a ação desejada.
+
+foto do perfil
+Qual a origem do sushi?
+Mostrar rascunhos
+
+
+
+
+A origem do sushi remonta ao século IV a.C. no sudeste asiático, na região próxima da Malásia e Tailândia. Naquela época, o arroz cozido era utilizado para conservar o peixe salgado através da fermentação. O processo era o seguinte:
+
+O peixe era limpo e salgado.
+Camadas de peixe salgado eram intercaladas com camadas de arroz cozido em um barril de madeira.
+A mistura era deixada fermentar por meses.
+Após a fermentação, o arroz era descartado e o peixe consumido.
+Esse método de conservação era conhecido como narezushi e era utilizado para preservar o peixe em climas quentes sem a necessidade de refrigeração.
+
+Com o tempo, o narezushi se espalhou para a China e, por volta do ano 200 a.C., chegou ao Japão. No Japão, a técnica de fermentação foi aprimorada e o sushi começou a ser consumido de forma mais similar à que conhecemos hoje.
+
+Algumas das principais etapas da evolução do sushi no Japão:
+
+Século VII: O arroz começou a ser temperado com vinagre, o que deu ao sushi um sabor mais ácido e refrescante.
+Século VIII: O tempo de fermentação do arroz foi reduzido, o que resultou em um sushi com textura mais macia.
+Século XIX: Hanaya Yohei, um cozinheiro japonês, criou o nigiri-zushi, que consiste em um bolinho de arroz moldado à mão com uma fatia de peixe cru por cima. Essa forma de sushi se tornou muito popular e é uma das mais conhecidas hoje em dia.
+Século XX: O sushi se popularizou no mundo todo, com diversas variações e adaptações.
+Hoje em dia, o sushi é considerado uma das culturas gastronômicas mais populares do mundo.
+
+Existem diversos tipos de sushi, como:
+
+Nigiri-zushi: bolinho de arroz moldado à mão com uma fatia de peixe cru por cima;
+Maki-zushi: rolinho de arroz e outros ingredientes (como peixe, legumes e algas marinhas) enrolado em uma folha de alga marinha;
+Temaki-zushi: cone de alga marinha recheado com arroz e outros ingredientes;
+Uramaki-zushi: rolinho de arroz com alga marinha no interior e recheio no exterior;
+Gunkan-zushi: fatia de peixe cru sobre um montículo de arroz cercado por uma faixa de alga marinha.
+O sushi é apreciado por seu sabor, textura e variedade. Além disso, é considerado um alimento saudável, pois é rico em proteínas, vitaminas e minerais.
